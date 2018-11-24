@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "seewhy-workshop"
+  "defaultProject": "seewhy-workshop",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
